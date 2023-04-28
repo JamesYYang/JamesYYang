@@ -7,4 +7,4 @@
 - 标准化的事情才能`自动化`，
 - 自动化的事情才能`规模化`。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesyyang&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesyyang&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
